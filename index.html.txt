@@ -79,8 +79,7 @@
   <div class="container">
     <div class="profile">
       <div class="avatar">
-        <!-- LOGO ADDED HERE -->
-        <img src="jiya-logo.jpg" alt="Captain Jiya Logo">
+        <img src="jiya logo jpg.jpeg" alt="Captain Jiya Logo">
       </div>
 
       <h1>Captain Jiya</h1>
@@ -116,3 +115,4 @@
   </div>
 </body>
 </html>
+
